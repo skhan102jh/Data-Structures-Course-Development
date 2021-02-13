@@ -1,0 +1,79 @@
+title : Title of this session 
+
+# Table of content
+plan:
+# Note that the slide numbers are based on the editted slides. The editted slides also indicate when each clicker question 
+# or worksheet question is to be completed. 
+  - title: **Start of lecture 7:** Slides 1-5 
+    statement: docs/assets/lec07_slides.pdf
+  - title: Clicker Question 1
+    statement: docs/episode0.md
+  - title: Slides 6-8 
+    statement: docs/assets/lec07_slides.pdf
+  - title: Clicker Question 2 
+    statement: docs/episode1.md
+  - title: Worksheet Question 1 
+    statement: docs/assets/episode0.md
+  - title: Slides 10-15
+    statement: docs/assets/lec07_slides.pdf
+  - title: Clicker Question 3
+    statement: docs/episode1.md
+  - title: Slides 16-18 
+    statement: docs/assets/lec07_slides.pdf
+  - title: Clicker Question 4 
+    statement: docs/episode1.md
+  - title: Slides 19-25
+    statement: docs/assets/lec07_slides.pdf
+  - title: Clicker Question 5 
+    statement: docs/episode1.md
+  - title: Slides 26-34 
+    statement: docs/assets/lec07_slides.pdf
+  - title: Clicker Question 6 
+    statement: docs/episode2.md
+  - title: Slides 35-40
+    statement: docs/assets/lec07_slides.pdf
+  - title: Clicker Question 7  
+    statement: docs/episode2.md
+  - title: Slides 41-42
+    statement: docs/assets/lec07_slides.pdf
+  - title: Worksheet Question 2
+    statement: docs/assets/episode2.md
+  - title: Slide 44-46
+    statement: docs/assets/lec07_slides.pdf
+  - title: Worksheet Question 2.5
+    statement: docs/assets/episode2.md
+  - title: Slide 48-54
+    statement: docs/assets/lec07_slides.pdf
+  - title: Worksheet Question 3
+    statement: docs/assets/episode4.md
+  - title: Slide 56 
+    statement: docs/assets/lect07_slides.pdf
+  - title: **Start of lecture 8:** Slides 1-5
+    statement: docs/assets/lec08_slides.pdf
+  - title: Clicker Question 1
+    statement: docs/episode3.md
+  - title: Slides 6-31
+    statement: docs/assets/lec08_slides.pdf
+  - title: Clicker Question 2
+    statement: docs/episode3.md
+  - title: Slide 32
+    statement: docs/assets/lec08_slides.pdf
+  - title: Clicker Question 3
+    statement: docs/episode3.md
+  - title: Slides 33-35
+    statement: docs/assets/lec08_slides.pdf
+  - title: Worksheet Questions 3-5
+    statement: docs/assets/episode4.md
+  - title: Slides 37-45
+    statement: docs/assets/lec08_slides.pdf
+  - title: DONE!
+    
+    
+
+# Settings for your programming projects and the associated Docker images
+projects:
+  java:
+    root: /code # Set the root path to your Java project
+
+    # Set the docker image.
+    runner: # leave this empty for now

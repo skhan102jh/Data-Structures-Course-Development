@@ -1,0 +1,18 @@
+title : AVL Trees 
+
+# Table of content
+plan:
+  - title: AVL Tree Example with Multiple Rotations
+    statement: docs/avl_examples.md 
+  - title: Rotation in pseudocode 
+    statement: docs/pseudocode_rotation.md
+  - title: Deciding on rotation
+    statement: docs/select_rotation_.md
+
+# Settings for your programming projects and the associated Docker images
+projects:
+  java:
+    root: /code # Set the root path to your Java project
+
+    # Set the docker image.
+    runner: # leave this empty for now

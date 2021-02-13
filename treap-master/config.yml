@@ -1,0 +1,18 @@
+title : Title of this session 
+
+# Table of content
+plan:
+  - title: Insert operation
+    statement: docs/insert.md 
+  - title: Remove operation 
+    statement: docs/remove.md 
+  - title: Review Key concepts 
+    statement: docs/clicker.md
+
+# Settings for your programming projects and the associated Docker images
+projects:
+  java:
+    root: /code # Set the root path to your Java project
+
+    # Set the docker image.
+    runner: # leave this empty for now

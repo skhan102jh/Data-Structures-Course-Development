@@ -1,0 +1,22 @@
+title : Title of this session 
+
+# Table of content
+plan:
+  - title: The benefits of balanced BST
+    statement: docs/balance_benefits.md
+  - title: Find balance factors
+    statement: docs/balance_factor.md
+  - title: Prove height of BBST is O(log N)
+    statement: docs/proof.md
+  - title: We need an efficient way to calculate the height
+    statement: docs/efficient_getHeight.md.md
+  - title: Review 
+    statement: docs/review_exercise.md
+
+# Settings for your programming projects and the associated Docker images
+projects:
+  java:
+    root: /code # Set the root path to your Java project
+
+    # Set the docker image.
+    runner: # leave this empty for now
